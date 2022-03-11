@@ -224,7 +224,6 @@ a {
   align-items: center;
   display: flex;
   justify-content: space-between;
-  padding: 2rem 3rem;
   position: absolute;
 }
 
@@ -275,7 +274,7 @@ a {
   .header-nav {
     display: flex;
     flex-direction: column;
-    background-color: var(--color-body-text);
+    background-color: #3e3e3e;
   }
 
   .mobile-menu__nav {
@@ -284,7 +283,7 @@ a {
 
   .header-nav__list {
     margin: 0;
-    padding: 1.5rem 16rem;
+    padding: 1rem 16rem;
     display: flex;
     justify-content: flex-end;
   }
