@@ -184,6 +184,12 @@
   fill: var(--color-accent);
 }
 
+@media screen and (min-width: 768px) {
+  .partner-section {
+    display: none;
+  }
+}
+
 /* Footer */
 
 .footer-section {
