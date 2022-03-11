@@ -169,3 +169,23 @@
     font-size: 2.5rem;
   }
 }
+
+/* Partner section */
+
+.reserved-rights {
+  color: var(--color-accent);
+}
+
+.footer-log p {
+  color: var(--color-accent);
+}
+
+.icon {
+  fill: var(--color-accent);
+}
+
+/* Footer */
+
+.footer-section {
+  background-color: var(--color-heading);
+}
